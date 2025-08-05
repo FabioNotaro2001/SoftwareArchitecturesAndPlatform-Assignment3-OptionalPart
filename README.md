@@ -8,8 +8,8 @@ This repository contains the optional part of the third assignment for the Softw
 
 The repository includes the following key documents:
 
-- **Agents for DDD.pdf**: A comprehensive PDF document detailing the integration of agents in Domain-Driven Design.
-- **Agents for DDD.pptx**: A PowerPoint presentation summarizing the key concepts and findings from the PDF document.
+- **Agents for DDD.pdf** -> a comprehensive PDF document detailing the integration of agents in Domain-Driven Design
+- **Agents for DDD.pptx** -> a PowerPoint presentation summarizing the key concepts and findings from the PDF document.
 
 ## How to Use
 
@@ -30,9 +30,9 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Acknowledgements
 
-    Andrea Bedei: For the foundational work on integrating agents into Domain-Driven Design.
+    Andrea Bedei -> for the foundational work on integrating agents into Domain-Driven Design.
 
-    Software Architectures and Platform Course: For providing the framework and context for this exploration.
+    Software Architectures and Platform Course -> for providing the framework and context for this exploration.
     Contact
 
-For further information or inquiries, please contact Fabio Notaro at [Your Email Here].
+For further information or inquiries, please contact Fabio Notaro.
